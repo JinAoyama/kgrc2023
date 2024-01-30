@@ -1,13 +1,13 @@
-# kgrc2023で構築したナレッジグラフ
+# kgrc2023：構築したナレッジグラフ
 [VirtualHome2KG](https://github.com/aistairc/VirtualHome2KG)を用いて2種類のナレッジグラフを構築（それぞれ6種類のアクティビティを表現するナレッジグラフを構築）
 - [rdf/scene1](https://github.com/JinAoyama/kgrc2023/rdf/scene1)のturtleファイルはオブジェクトの3D座標とオブジェクトの3D座標とアクションの実行時間を記録せずに状態変化のみをシミュレーションしてナレッジグラフを生成したもの
 - [rdf_with_bbox/scene1](https://github.com/JinAoyama/kgrc2023/rdf_with_bbox/scene1)のturtleファイルは3D座標とアクションの実行時間も記録してナレッジグラフを生成したもの
 
+<br>
 
+[rdf/scene1](https://github.com/JinAoyama/kgrc2023/rdf/scene1) のナレッジグラフの基本情報
 
-[rdf/scene1](https://github.com/JinAoyama/kgrc2023/rdf/scene1)のナレッジグラフの基本情報
-
-| アクティビティ名 | トリプル数 | データサイズ |
+| アクティビティ | トリプル数 | データサイズ |
 | :---: | :---: | :---: |
 | Browse internet | 15412 | 856 KB |
 | Go to toilet | 10169 | 533 KB |
@@ -16,11 +16,11 @@
 | Watch tv | 20920 | 1,068 KB |
 | Work | 15467 | 738 KB |
 
+<br>
 
+[rdf_with_bbox/scene1](https://github.com/JinAoyama/kgrc2023/rdf_with_bbox/scene1) のナレッジグラフの基本情報
 
-[rdf_with_bbox/scene1](https://github.com/JinAoyama/kgrc2023/rdf_with_bbox/scene1)のナレッジグラフの基本情報
-
-| アクティビティ名 | トリプル数 | データサイズ |
+| アクティビティ | トリプル数 | データサイズ |
 | :---: | :---: | :---: |
 | Browse internet | 29895 | 972 KB |
 | Go to toilet | 20282 | 644 KB |
@@ -29,5 +29,5 @@
 | Watch tv | 39527 | 1,209 KB |
 | Work | 30157 | 884 KB |
 
-
+<br>
 ※ ナレッジグラフ構築のために生成したVirtualHomeのデータセット（アクティビティ、アクティビティの説明文、アクションスクリプトの組）は[dataset/scene1](https://github.com/JinAoyama/kgrc2023/dataset/scene1)に公開
