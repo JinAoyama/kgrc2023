@@ -30,4 +30,5 @@
 | Work | 30157 | 884 KB |
 
 <br>
-※ ナレッジグラフ構築のために生成したVirtualHomeのデータセット（アクティビティ、アクティビティの説明文、アクションスクリプトの組）は[dataset/scene1](https://github.com/JinAoyama/kgrc2023/dataset/scene1)に公開
+
+※ ナレッジグラフ構築のために生成したVirtualHomeのデータセット（アクティビティ、アクティビティの説明文、アクションスクリプトの組）は、[dataset/scene1](https://github.com/JinAoyama/kgrc2023/dataset/scene1) に公開
