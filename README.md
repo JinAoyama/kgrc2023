@@ -9,12 +9,12 @@
 
 | アクティビティ | トリプル数 | データサイズ |
 | :---: | :---: | :---: |
-| Browse internet | 15412 | 856 KB |
-| Go to toilet | 10169 | 533 KB |
-| Put groceries in fridge | 17285 | 1,062 KB |
-| Read book | 17350 | 893 KB |
-| Watch tv | 20920 | 1,068 KB |
-| Work | 15467 | 738 KB |
+| Browse internet | 15,412 | 856 KB |
+| Go to toilet | 10,169 | 533 KB |
+| Put groceries in fridge | 17,285 | 1,062 KB |
+| Read book | 17,350 | 893 KB |
+| Watch tv | 20,920 | 1,068 KB |
+| Work | 15,467 | 738 KB |
 
 <br>
 
@@ -22,12 +22,12 @@
 
 | アクティビティ | トリプル数 | データサイズ |
 | :---: | :---: | :---: |
-| Browse internet | 29895 | 972 KB |
-| Go to toilet | 20282 | 644 KB |
-| Put groceries in fridge | 33159 | 1,158 KB |
-| Read book | 33113 | 1,021 KB |
-| Watch tv | 39527 | 1,209 KB |
-| Work | 30157 | 884 KB |
+| Browse internet | 29,895 | 972 KB |
+| Go to toilet | 20,282 | 644 KB |
+| Put groceries in fridge | 33,159 | 1,158 KB |
+| Read book | 33,113 | 1,021 KB |
+| Watch tv | 39,527 | 1,209 KB |
+| Work | 30,157 | 884 KB |
 
 <br>
 
