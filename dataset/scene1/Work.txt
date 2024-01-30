@@ -1,0 +1,11 @@
+Work
+I walk to the home office, walk to the desk, find the desk, sit on the chair, find the computer, switch on the computer, find the keyboard, start typing on the keyboard.
+
+
+[walk] <desk> (1)
+[find] <desk> (1)
+[walk] <chair> (1)
+[sit] <chair> (1)
+[find] <computer> (1)
+[switchon] <computer> (1)
+[find] <keyboard> (1)

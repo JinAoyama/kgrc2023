@@ -1,0 +1,12 @@
+Read book
+Walk to the bedroom, walk to the bookshelf, find the bookshelf, turn to the bookshelf, look at the bookshelf, find a book, grab the book, walk to the couch, sit on the couch, open the book, read the book.
+
+
+[walk] <bedroom> (1)
+[walk] <bookshelf> (1)
+[find] <bookshelf> (1)
+[find] <book> (1)
+[grab] <book> (1)
+[walk] <sofa> (1)
+[sit] <sofa> (1)
+[read] <book> (1)

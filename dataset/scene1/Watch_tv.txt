@@ -1,0 +1,14 @@
+Watch tv
+I walk to the living room, walk to the TV, find the TV, switch on the TV, find the remote control, grab the remote control, turn to the TV, point at the TV, sit on the sofa, and watch the TV.
+
+
+[walk] <livingroom> (1)
+[walk] <tv> (1)
+[find] <tv> (1)
+[switchon] <tv> (1)
+[find] <remotecontrol> (1)
+[grab] <remotecontrol> (1)
+[turnto] <tv> (1)
+[pointat] <tv> (1)
+[sit] <sofa> (1)
+[watch] <tv> (1)

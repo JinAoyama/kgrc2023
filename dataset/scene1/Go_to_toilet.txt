@@ -1,0 +1,7 @@
+Go to toilet
+Walk to the bathroom, walk to the toilet, find the toilet, sit on the toilet.
+
+[walk] <bathroom> (1)
+[walk] <toilet> (1)
+[find] <toilet> (1)
+[sit] <toilet> (1)

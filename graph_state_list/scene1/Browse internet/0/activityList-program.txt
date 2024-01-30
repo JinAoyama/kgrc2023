@@ -1,0 +1,7 @@
+<char0> [WALK] <bedroom> (74)
+<char0> [WALK] <computer> (176)
+<char0> [FIND] <computer> (176)
+<char0> [SWITCHON] <computer> (176)
+<char0> [FIND] <mouse> (172)
+<char0> [GRAB] <mouse> (172)
+<char0> [FIND] <keyboard> (174)

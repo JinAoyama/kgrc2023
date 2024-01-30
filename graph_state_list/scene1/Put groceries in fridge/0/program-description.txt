@@ -1,0 +1,2 @@
+Put groceries in fridge
+Walk to the kitchen, walk to the fridge, find the fridge, open the fridge, find the groceries, grab the groceries, put the groceries in the fridge, close the fridge.
